@@ -18,9 +18,9 @@ We thank all the great contributors very much.
 	* [History Selection](#history-selection) 
 	* [User Simulator](#user-simulator) 
 - [Clarifying Questions](#clarifying-questions)
-  - [Select/Rank](#select/rank) 
+  - [Select or Rank](#select-or-rank) 
   - [Generate](#generate) 
-  - [Facet Extraction/Generation](#facet-extraction/generation) 
+  - [Facet Extraction or Generation](#facet-extraction-or-generation) 
 
 
 
@@ -39,7 +39,7 @@ We thank all the great contributors very much.
 - [Evaluating Mixed-initiative Conversational Search Systems via User Simulation](https://arxiv.org/pdf/2204.08046v2.pdf). *Ivan Sekulic et.al*. WSDM 2022
 
 ## Clarifying Questions
-### Select/Rank
+### Select or Rank
 
 - [Resolving Intent Ambiguities by Retrieving Discriminative Clarifying Questions](https://arxiv.org/abs/2008.07559v1). *Kaustubh D. Dhole* arxiv 2020
 - [Generating Clarifying Questions with Web Search Results](https://dl.acm.org/doi/10.1145/3477495.3531981). *Ziliang Zhao et.al.* SIGIR 2022
@@ -49,7 +49,7 @@ We thank all the great contributors very much.
 - [Generating Clarifying Questions for Information Retrieval](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/webconf-2020-camera-zamani-et-al.pdf). *Hamed Zamani et.al.* WWW 2020
 - Zero-shot Clarifying Questions Generation for Conversational Search
 
-### Facet Extraction/Generation
+### Facet Extraction or Generation
 
 - [Revisiting Open Domain Query Facet Extraction and Generation](https://dl.acm.org/doi/abs/10.1145/3539813.3545138). *Chris Samarinas et.al.* ICTIR 2022
 
