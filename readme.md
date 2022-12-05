@@ -54,6 +54,7 @@ We thank all the great contributors very much.
 ### Facet Extraction or Generation
 
 - [Revisiting Open Domain Query Facet Extraction and Generation](https://dl.acm.org/doi/abs/10.1145/3539813.3545138). *Chris Samarinas et.al.* ICTIR 2022
+- [Learning Multiple Intent Representations for Search Queries](https://dl.acm.org/doi/pdf/10.1145/3459637.3482445). *Helia Hashemi et.al.* CIKM 2021
 - [Precision-Oriented Query Facet Extraction](https://dl.acm.org/doi/pdf/10.1145/2983323.2983824). *Weize Kong et.al.* CIKM 2016
 - [Extending Faceted Search to the General Web](https://dl.acm.org/doi/pdf/10.1145/2661829.2661964). *Weize Kong et.al.* CIKM 2014
 - [Extracting query facets from search results](https://dl.acm.org/doi/pdf/10.1145/2484028.2484097). *Weize Kong et.al.* SIGIR 2013
