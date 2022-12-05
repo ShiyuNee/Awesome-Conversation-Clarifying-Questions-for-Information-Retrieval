@@ -41,13 +41,15 @@ We thank all the great contributors very much.
 ## Clarifying Questions
 ### Select or Rank
 
-- [Resolving Intent Ambiguities by Retrieving Discriminative Clarifying Questions](https://arxiv.org/abs/2008.07559v1). *Kaustubh D. Dhole* arxiv 2020
 - [Generating Clarifying Questions with Web Search Results](https://dl.acm.org/doi/10.1145/3477495.3531981). *Ziliang Zhao et.al.* SIGIR 2022
+
+- [Resolving Intent Ambiguities by Retrieving Discriminative Clarifying Questions](https://arxiv.org/abs/2008.07559v1). *Kaustubh D. Dhole* arxiv 2020
 
 ### Generate
 
+- Zero-shot Clarifying Questions Generation for Conversational Search.
+
 - [Generating Clarifying Questions for Information Retrieval](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/webconf-2020-camera-zamani-et-al.pdf). *Hamed Zamani et.al.* WWW 2020
-- Zero-shot Clarifying Questions Generation for Conversational Search
 
 ### Facet Extraction or Generation
 
