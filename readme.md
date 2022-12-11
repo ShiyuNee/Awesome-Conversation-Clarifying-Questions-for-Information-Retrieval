@@ -14,13 +14,17 @@ We thank all the great contributors very much.
 ## Contents
 
 - [Conversation System](#conversational-system)
-	* [Evaluation](#evaluation)        
-	* [History Selection](#history-selection) 
-	* [User Simulator](#user-simulator) 
+  * [Evaluation](#evaluation)        
+  * [History Selection](#history-selection) 
+  * [User Simulator](#user-simulator) 
 - [Clarifying Questions](#clarifying-questions)
   - [Select or Rank](#select-or-rank) 
   - [Generate](#generate) 
   - [Facet Extraction or Generation](#facet-extraction-or-generation) 
+- [Other Resource](#other-resource)
+  - [Dataset](#dataset)
+  - [Tool](#tool)
+
 
 
 
@@ -59,3 +63,12 @@ We thank all the great contributors very much.
 - [Extending Faceted Search to the General Web](https://dl.acm.org/doi/pdf/10.1145/2661829.2661964). *Weize Kong et.al.* CIKM 2014
 - [Extracting query facets from search results](https://dl.acm.org/doi/pdf/10.1145/2484028.2484097). *Weize Kong et.al.* SIGIR 2013
 
+## Other Resource
+
+### Dataset
+
+- [MIMICS: A Large-Scale Data Collection for Search Clarification](https://arxiv.org/pdf/2006.10174.pdf). *Hamed Zamani. et.al.* CIKM 2020
+
+### Tool
+
+- [Query-driven Segment Selection for Ranking Long Documents](https://arxiv.org/abs/2109.04611v1). *Youngwoo Kim et.al.* CIKM 2021
