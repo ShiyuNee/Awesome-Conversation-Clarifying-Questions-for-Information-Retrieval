@@ -75,4 +75,6 @@ We thank all the great contributors very much.
 - [Local Self-Attention over Long Text for Efficient Document Retrieval](https://arxiv.org/abs/2005.04908). *Sebastian Hofstätter et.al.* SIGIR 2020
 - [Interpretable & Time-Budget-Constrained Contextualization for Re-Ranking](https://arxiv.org/abs/2002.01854). *Sebastian Hofstätter et.al.* ECAI 2020
 
-- [Deeper Text Understanding for IR with Contextual Neural Language Modeling](https://arxiv.org/abs/1905.09217v1). *Zhuyun Dai et.al.* SIGIR 2019
+- [Deeper Text Understanding for IR with Contextual Neural Language Modeling](https://arxiv.org/abs/1905.09217v1). *Zhuyun Dai et.al.* SIGIR 2019                
+
+- [Cross-Domain Modeling of Sentence-Level Evidence for Document Retrieval](https://aclanthology.org/D19-1352/). *Zeynep Akkalyoncu Yilmaz et.al.* EMNLP-IJCNLP 2019
