@@ -68,6 +68,7 @@ We thank all the great contributors very much.
 ### Dataset
 
 - [MIMICS: A Large-Scale Data Collection for Search Clarification](https://arxiv.org/pdf/2006.10174.pdf). *Hamed Zamani. et.al.* CIKM 2020
+- [Asking Clarifying Questions in Open-Domain Information-Seeking Conversations](https://arxiv.org/abs/1907.06554). *Mohammad Aliannejadi. et.al.* SIGIR 2019
 
 ### Tool
 
