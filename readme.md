@@ -64,6 +64,7 @@ We thank all the great contributors very much.
 - [Precision-Oriented Query Facet Extraction](https://dl.acm.org/doi/pdf/10.1145/2983323.2983824). *Weize Kong et.al.* CIKM 2016
 - [Extending Faceted Search to the General Web](https://dl.acm.org/doi/pdf/10.1145/2661829.2661964). *Weize Kong et.al.* CIKM 2014
 - [Extracting query facets from search results](https://dl.acm.org/doi/pdf/10.1145/2484028.2484097). *Weize Kong et.al.* SIGIR 2013
+- [Finding dimensions for queries](https://dl.acm.org/doi/10.1145/2063576.2063767). *Zhicheng Dou et.al.* CIKM 2011
 
 ## Other Resource
 
