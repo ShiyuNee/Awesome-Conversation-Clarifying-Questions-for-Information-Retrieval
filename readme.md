@@ -51,7 +51,7 @@ We thank all the great contributors very much.
 
 ### Generate
 
-- Zero-shot Clarifying Questions Generation for Conversational Search.
+- [Zero-shot Clarifying Question Generation for Conversational Search](https://arxiv.org/abs/2301.12660). *Zhenduo Wang et.al.* WWW 2023
 
 - [Generating Clarifying Questions for Information Retrieval](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/webconf-2020-camera-zamani-et-al.pdf). *Hamed Zamani et.al.* WWW 2020
 
