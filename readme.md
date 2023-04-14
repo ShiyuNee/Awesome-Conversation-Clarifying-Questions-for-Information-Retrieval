@@ -72,6 +72,7 @@ We thank all the great contributors very much.
 
 - [MIMICS: A Large-Scale Data Collection for Search Clarification](https://arxiv.org/pdf/2006.10174.pdf). *Hamed Zamani. et.al.* CIKM 2020
 - [Asking Clarifying Questions in Open-Domain Information-Seeking Conversations](https://arxiv.org/abs/1907.06554). *Mohammad Aliannejadi. et.al.* SIGIR 2019
+- [Building and Evaluating Open-Domain Dialogue Corpora with Clarifying Questions](https://arxiv.org/abs/2109.05794). *Mohammad Aliannejadi. et.al.* EMNLP 2021
 
 ### Tool
 
