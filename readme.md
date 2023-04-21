@@ -55,6 +55,8 @@ We thank all the great contributors very much.
 
 - [Generating Clarifying Questions for Information Retrieval](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/webconf-2020-camera-zamani-et-al.pdf). *Hamed Zamani et.al.* WWW 2020
 
+- [Towards Facet-Driven Generation of Clarifying Questions for Conversational Search](https://dl.acm.org/doi/10.1145/3471158.3472257). Ivan Sekulić et.al. ICTIR 2021
+
 ### Facet Extraction or Generation
 
 - [Stochastic Optimization of Text Set Generation for Learning Multiple Query Intent Representations](https://dl.acm.org/doi/10.1145/3511808.3557666). Helia Hashemi et.al. CIKM 2022
