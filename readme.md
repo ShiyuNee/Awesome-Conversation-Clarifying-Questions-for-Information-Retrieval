@@ -52,10 +52,8 @@ We thank all the great contributors very much.
 ### Generate
 
 - [Zero-shot Clarifying Question Generation for Conversational Search](https://arxiv.org/abs/2301.12660). *Zhenduo Wang et.al.* WWW 2023
-
-- [Generating Clarifying Questions for Information Retrieval](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/webconf-2020-camera-zamani-et-al.pdf). *Hamed Zamani et.al.* WWW 2020
-
 - [Towards Facet-Driven Generation of Clarifying Questions for Conversational Search](https://dl.acm.org/doi/10.1145/3471158.3472257). Ivan Sekulić et.al. ICTIR 2021
+- [Generating Clarifying Questions for Information Retrieval](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/webconf-2020-camera-zamani-et-al.pdf). *Hamed Zamani et.al.* WWW 2020
 
 ### Facet Extraction or Generation
 
@@ -72,9 +70,10 @@ We thank all the great contributors very much.
 
 ### Dataset
 
+- [Asking Clarification Questions to Handle Ambiguity in Open-Domain QA](https://arxiv.org/abs/2305.13808). *Dongryeol Lee. et.al. arxiv 2023*
+- [Building and Evaluating Open-Domain Dialogue Corpora with Clarifying Questions](https://arxiv.org/abs/2109.05794). *Mohammad Aliannejadi. et.al.* EMNLP 2021
 - [MIMICS: A Large-Scale Data Collection for Search Clarification](https://arxiv.org/pdf/2006.10174.pdf). *Hamed Zamani. et.al.* CIKM 2020
 - [Asking Clarifying Questions in Open-Domain Information-Seeking Conversations](https://arxiv.org/abs/1907.06554). *Mohammad Aliannejadi. et.al.* SIGIR 2019
-- [Building and Evaluating Open-Domain Dialogue Corpora with Clarifying Questions](https://arxiv.org/abs/2109.05794). *Mohammad Aliannejadi. et.al.* EMNLP 2021
 
 ### Tool
 
