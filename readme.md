@@ -17,15 +17,13 @@ We thank all the great contributors very much.
   * [Evaluation](#evaluation)        
   * [History Selection](#history-selection) 
   * [User Simulator](#user-simulator) 
-- [Clarifying Questions](#clarifying-questions)
+- [Asking Clarifying Questions](#asking-clarifying-questions)
   - [Select or Rank](#select-or-rank) 
   - [Generate](#generate) 
-  - [Facet Extraction or Generation](#facet-extraction-or-generation) 
+- [Facet Prediction](#facet-prediction) 
 - [Other Resource](#other-resource)
   - [Dataset](#dataset)
-  - [Tool](#tool)
-
-
+  - [Tools](#tools)
 
 
 ## Conversational System
@@ -42,7 +40,7 @@ We thank all the great contributors very much.
 
 - [Evaluating Mixed-initiative Conversational Search Systems via User Simulation](https://arxiv.org/pdf/2204.08046v2.pdf). *Ivan Sekulic et.al*. WSDM 2022
 
-## Clarifying Questions
+## Asking Clarifying Questions
 ### Select or Rank
 
 - [Generating Clarifying Questions with Web Search Results](https://dl.acm.org/doi/10.1145/3477495.3531981). *Ziliang Zhao et.al.* SIGIR 2022
@@ -55,7 +53,9 @@ We thank all the great contributors very much.
 - [Towards Facet-Driven Generation of Clarifying Questions for Conversational Search](https://dl.acm.org/doi/10.1145/3471158.3472257). Ivan Sekulić et.al. ICTIR 2021
 - [Generating Clarifying Questions for Information Retrieval](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/webconf-2020-camera-zamani-et-al.pdf). *Hamed Zamani et.al.* WWW 2020
 
-### Facet Extraction or Generation
+## Facet Prediction
+
+- [A Comparative Study of Training Objectives for Clarification Facet Generation](https://arxiv.org/pdf/2310.00703v1.pdf). *Shiyu Ni et.al.* SIGIR-AP 2023
 
 - [Stochastic Optimization of Text Set Generation for Learning Multiple Query Intent Representations](https://dl.acm.org/doi/10.1145/3511808.3557666). Helia Hashemi et.al. CIKM 2022
 
@@ -75,7 +75,7 @@ We thank all the great contributors very much.
 - [MIMICS: A Large-Scale Data Collection for Search Clarification](https://arxiv.org/pdf/2006.10174.pdf). *Hamed Zamani. et.al.* CIKM 2020
 - [Asking Clarifying Questions in Open-Domain Information-Seeking Conversations](https://arxiv.org/abs/1907.06554). *Mohammad Aliannejadi. et.al.* SIGIR 2019
 
-### Tool
+### Tools
 
 - [Query-driven Segment Selection for Ranking Long Documents](https://arxiv.org/abs/2109.04611v1). *Youngwoo Kim et.al.* CIKM 2021
 - [Local Self-Attention over Long Text for Efficient Document Retrieval](https://arxiv.org/abs/2005.04908). *Sebastian Hofstätter et.al.* SIGIR 2020
